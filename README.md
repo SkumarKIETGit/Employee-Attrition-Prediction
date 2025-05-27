@@ -57,9 +57,9 @@ Employee attrition (or turnover) is a significant concern for many organizations
 
 ## Visuals
 
-- 📌 *Attrition Distribution*  
-- 📌 *Confusion Matrix Heatmap*  
-- 📌 *Top 10 Feature Importances*
+-  *Attrition Distribution*  
+-  *Confusion Matrix Heatmap*  
+-  *Top 10 Feature Importances*
 
 
 ## Future Improvements
